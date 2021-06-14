@@ -126,7 +126,7 @@ export default class FormDataComponent extends Component {
                         <input type="tel" className="form-control" value={this.state.dataFetch.uf} />
                     </div>
 
-                    <button type="submit" className="btn btn-primary">Submit</button>
+                    <button type="submit" className="btn btn-primary btn-lg btn-block">Submit</button>
                 </form>
             </div>
         )
